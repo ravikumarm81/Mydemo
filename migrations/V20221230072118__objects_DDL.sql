@@ -1,0 +1,2 @@
+-- test_role_12302
+ALTER ROLE TEST_ROLE_12302 RENAME TO test_role_12301;
