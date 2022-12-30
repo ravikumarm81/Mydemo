@@ -1,0 +1,2 @@
+DROP WAREHOUSE dev_wh;
+DROP WAREHOUSE wh_dec;
