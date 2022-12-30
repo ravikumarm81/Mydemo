@@ -1,0 +1,9 @@
+DROP SEQUENCE demo_127.demo.seq_nm1;
+DROP SEQUENCE demo_127.demo.seq_nm2;
+DROP SEQUENCE demo_127.demo.seq_nm3;
+DROP SEQUENCE demo_127.demo.seq_nm4;
+DROP SEQUENCE demo_127.demo.seq_nm5;
+DROP SEQUENCE demo_127.demo.seq_nm6;
+DROP SEQUENCE demo_127.demo.seq_nm7;
+DROP SEQUENCE demo_127.demo.seq_nm8;
+DROP SEQUENCE demo_127.demo.seq_nm9;
