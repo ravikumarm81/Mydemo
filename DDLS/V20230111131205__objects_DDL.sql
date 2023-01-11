@@ -1,0 +1,4 @@
+-- test_csv_ff
+CREATE  FILE FORMAT DEMO_127.DEMO.test_csv_ff TYPE = csv COMPRESSION = AUTO
+FIELD_DELIMITER = ',' 
+COMMENT='CSV File Format';
