@@ -1,0 +1,2 @@
+-- test_schema
+ALTER SCHEMA DEMO_127.TEST_SCHEMA RENAME TO DEMO_127.test_schema1;
