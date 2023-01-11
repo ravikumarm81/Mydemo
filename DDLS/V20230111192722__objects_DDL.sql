@@ -1,0 +1,2 @@
+-- test_db1
+DROP DATABASE TEST_DB1;
